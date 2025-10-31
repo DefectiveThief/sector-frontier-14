@@ -2280,3 +2280,10 @@ Entries:
   id: 167
   time: '2025-10-31T12:19:33.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/339
+- author: fox76055
+  changes:
+    - type: Add
+      message: Новое судно для пиратов - Afaneor от Covral.
+  id: 168
+  time: '2025-10-31T12:51:47.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/342
