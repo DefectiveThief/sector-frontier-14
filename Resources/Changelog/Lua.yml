@@ -2253,3 +2253,12 @@ Entries:
   id: 164
   time: '2025-10-31T11:47:55.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/331
+- author: ressuw
+  changes:
+    - type: Add
+      message: >-
+        Добавлен Биогенератор, био преработчик, упакованный электрогриль на
+        Тинию
+  id: 165
+  time: '2025-10-31T12:06:19.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/337
