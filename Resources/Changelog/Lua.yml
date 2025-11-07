@@ -2403,3 +2403,12 @@ Entries:
   id: 176
   time: '2025-11-07T17:07:20.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/362
+- author: LeptonComm
+  changes:
+    - type: Tweak
+      message: >-
+        Л6, Лектеру, Бульдогу возвращены старые значения скорострельности (6.7,
+        5, 3 соотв.)
+  id: 177
+  time: '2025-11-07T17:17:00.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/364
