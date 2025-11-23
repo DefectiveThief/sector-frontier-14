@@ -2534,3 +2534,10 @@ Entries:
   id: 186
   time: '2025-11-23T15:05:37.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/378
+- author: LeptonComm
+  changes:
+    - type: Tweak
+      message: Убрана возможность откручивания всем корабельным орудиям монолита
+  id: 187
+  time: '2025-11-23T15:14:51.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/379
