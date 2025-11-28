@@ -92,7 +92,8 @@ entities:
       name: Нордфолл
     - type: Transform
       pos: 0.300148,-0.45872116
-      parent: invalid
+    - type: BecomesStation
+      id: Typan
     - type: MapGrid
       chunks:
         0,0:
@@ -49141,7 +49142,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2595.7307376
-      storeEntity: invalid
     - type: InsideEntityStorage
   - uid: 62
     mapInit: true
@@ -49215,7 +49215,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2772.8638938
-      storeEntity: invalid
     - type: InsideEntityStorage
   - uid: 84
     mapInit: true
@@ -49289,7 +49288,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2773.7305596
-      storeEntity: invalid
     - type: InsideEntityStorage
   - uid: 106
     mapInit: true
@@ -49363,7 +49361,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2777.1972228
-      storeEntity: invalid
     - type: InsideEntityStorage
   - uid: 128
     mapInit: true
@@ -49437,7 +49434,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2779.3972206
-      storeEntity: invalid
     - type: InsideEntityStorage
   - uid: 153
     mapInit: true
@@ -49510,7 +49506,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2593.4640731
-      storeEntity: invalid
   - uid: 174
     mapInit: true
     paused: true
@@ -49582,7 +49577,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2781.2638854
-      storeEntity: invalid
 - proto: CircuitImprinter
   entities:
   - uid: 7556
@@ -50387,10 +50381,6 @@ entities:
       anchored: True
       pos: -43.5,-60.5
       parent: 1
-    - type: UserInterface
-      actors:
-        enum.StorageUiKey.Key:
-        - invalid
     - type: Physics
       canCollide: False
       bodyType: Static
@@ -50666,7 +50656,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 2564.664102
-      storeEntity: invalid
     - type: InsideEntityStorage
 - proto: ClothingHandsGlovesMantisBlades
   entities:
@@ -93910,7 +93899,6 @@ entities:
       fingerprints: []
     - type: StoreRefund
       boughtTime: 13164.5868354
-      storeEntity: invalid
 - proto: KitchenKnife
   entities:
   - uid: 13966
