@@ -65,6 +65,7 @@
   - ShipyardTide
   - ShipyardVagabond
   - ShipyardVitalis
+  - ShipyardWyvern
 
 - type: guideEntry
   id: ShipyardArgent
@@ -370,3 +371,8 @@
   id: ShipyardVitalis
   name: guide-entry-shipyard-vitalis
   text: "/ServerInfo/_NF/Guidebook/Shipyard/Vitalis.xml"
+
+- type: guideEntry
+  id: ShipyardWyvern
+  name: Concord-Wyvern
+  text: "/ServerInfo/_Lua/Guidebook/Shipyard/Wyvern.xml"
