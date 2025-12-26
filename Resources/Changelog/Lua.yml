@@ -2954,3 +2954,12 @@ Entries:
   id: 210
   time: '2025-12-26T12:07:54.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/415
+- author: HacksLua
+  changes:
+    - type: Remove
+      message: Удалены консоли кредитов, вкладов, депозитов
+    - type: Tweak
+      message: Переработана система динамических цен
+  id: 211
+  time: '2025-12-26T12:09:01.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/416
